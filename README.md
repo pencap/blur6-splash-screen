@@ -2,7 +2,7 @@ Blur6 Plasma Splash Screen
 ==========================
 *Plasma splash screen to match my desktop theme's wallpaper for a unified apperance.*
 
-## Installation
+### Installation
 
 
 
@@ -10,7 +10,7 @@ Blur6 Plasma Splash Screen
 * Move the folder **com.blur6** to  **/home/.local/share/plasma/look-and-feel** 
 * Go to **System Settings** > **Workspace Theme** > **Splash Screen** and select **Blur6**
 
-## Screens
+### Screens
 ![stage 1 preview](/img/splash_Hi_there.png)
 
 
@@ -24,7 +24,7 @@ stage 1
 
 stage 2
 
-## License
+### License
 
 KDE Plasma Splash Screen based on :
 
