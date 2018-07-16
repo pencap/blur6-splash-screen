@@ -1,5 +1,5 @@
 Blur6 Plasma Splash Screen
-========================
+==========================
 *Plasma splash screen to match my desktop theme's wallpaper for a unified apperance.*
 
 ## Installation
@@ -53,4 +53,3 @@ Inspired by Helium:
 *by mcder*
 
 openDesktop.org: [https://www.opendesktop.org/p/998869/](https://www.opendesktop.org/p/998869/)
-
