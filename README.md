@@ -10,6 +10,11 @@ Blur6 Plasma Splash Screen
 * Move the folder **com.blur6** to  **/home/.local/share/plasma/look-and-feel** 
 * Go to **System Settings** > **Workspace Theme** > **Splash Screen** and select **Blur6**
 
+### Youtube
+
+Preview: [https://youtu.be/7bdKWSNOWHg](https://youtu.be/7bdKWSNOWHg)
+
+
 ### Screens
 ![stage 1 preview](/img/splash_Hi_there.png)
 
