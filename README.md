@@ -29,13 +29,15 @@ stage 1
 
 stage 2
 
-### License
+### Credits
 
 KDE Plasma Splash Screen based on :
 
 **Splash claro LNXD**
 
 *by Xabi*
+
+*GPLv2+*
 
 lnxd.es: [https://www.lnxd.es/entradas/splash-claro-para-la-pantalla-de-bienvenida-del-escritorio-kde-plasma/](https://www.lnxd.es/entradas/splash-claro-para-la-pantalla-de-bienvenida-del-escritorio-kde-plasma/)
 
