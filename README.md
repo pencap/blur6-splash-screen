@@ -1,4 +1,4 @@
-Blur6 Plasma Splash Screen
+blur6 Plasma Splash Screen
 ==========================
 *Plasma splash screen to match my desktop theme's wallpaper for a unified apperance.*
 
