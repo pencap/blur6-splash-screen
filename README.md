@@ -31,7 +31,7 @@ stage 2
 
 ### Credits
 
-KDE Plasma Splash Screen based on :
+KDE Plasma Splash Screen based on:
 
 **Splash claro LNXD**
 
